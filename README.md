@@ -125,3 +125,9 @@
     }
    ]
    ```
+## NOTE
+#### Scaling And High Availability Setup 
+- Redis cache server for caching frequently used data
+- Docker for containerization
+- K8S for container orchestration
+- Auto Scaling

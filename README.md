@@ -13,7 +13,10 @@
 4. lombok (For avoid boilerplate code)
 
 ## Instructions to run project
-1. Clone (`git clone https://github.com/Nandivaleamol/amol_vt_25_08_2024.git`)
+1. Clone 
+   ```
+   git clone https://github.com/Nandivaleamol/amol_vt_25_08_2024.git
+   ```
 2. Change DB credentials (
     If in your machine PostgreSql installed then change spring.datasource.url=jdbc:postgresql://localhost:<PORT>/<DB-NAME> )
 3. Open project In IntelliJ Idea IDE (If installed)
